@@ -1,7 +1,7 @@
 libusb4j
 ========
 
-Enables libusb from within Java using the JNA (Java Native Access) library.
+Enables libusb (0.1) from within Java using the JNA (Java Native Access) library.
 
 Call for Help
 --------
